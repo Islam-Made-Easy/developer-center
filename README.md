@@ -17,5 +17,5 @@ IME API
 
 - Available issues are on the [Github issues page](https://github.com/Islam-Made-Easy/ime-api/issues) for IME API 
 
-- For Development simply make it easy to the [Wiki Docs](https://github.com/Islam-Made-Easy/ime-api/wiki)
+- For Development simply make it easy to the [IME API Wiki Docs](https://github.com/Islam-Made-Easy/ime-api/wiki)
 
