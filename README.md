@@ -1,6 +1,6 @@
 # developer-center
 
-Contributions are welcome! 
+Welcome to the IME developer community.
 
 IME App:
 
