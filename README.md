@@ -1,4 +1,4 @@
-# developer-center
+# Developer Center
 
 Welcome to the IME developer community.
 
